@@ -1,0 +1,5 @@
+iphonexr
+macos
+macbook
+m1 chip
+ipad
