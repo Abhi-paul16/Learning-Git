@@ -1,0 +1,9 @@
+git-log
+git-commit -m"your message"
+touch - for creating new file
+cat - for displaying data available in files
+mkdir - for making directory 
+cd - for changing directory
+cd .. - going back in directory 
+rm - for removable of files
+git add - for updating files
