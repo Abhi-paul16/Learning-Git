@@ -7,3 +7,6 @@ cd - for changing directory
 cd .. - going back in directory 
 rm - for removable of files
 git add - for updating files
+git stash - delete the file from directory and store it in somewhere back from where we can take it back when we need.
+git pop - it is the command by which we can take the git stash data.
+
